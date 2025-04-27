@@ -54,7 +54,7 @@ This system is designed to accept input from URLs or direct text input and provi
    mvn clean install
 
 5.**Run the application**
-  mvn exec:java -Dexec.mainClass="LuminaApplication"
+  mvn compile exec:java -Dexec.mainClass="org.lumina.LuminaApplication"
 
 ## 📂 Project Structure
 
