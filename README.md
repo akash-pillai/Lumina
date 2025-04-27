@@ -47,7 +47,7 @@ This system is designed to accept input from URLs or direct text input and provi
    mvn -version
 
 3. **Clone the repository**
-   git clone https://github.com/your-username/luminia.git
+   git clone https://github.com/akash-pillai/Lumina.git
    cd luminia
 
 4. **Build the project**
