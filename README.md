@@ -58,9 +58,7 @@ This system is designed to accept input from URLs or direct text input and provi
 
 ## 📂 Project Structure
 
-src/
- └── main/
-     └── java/
+     └── src/main/java/
          ├── LuminaApplication.java
          ├── InputHandler.java
          ├── Preprocessor.java
